@@ -1,4 +1,4 @@
-if > 18
+if > 20
 ok
 else
 not ok
